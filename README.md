@@ -11,18 +11,18 @@ Instead of a static site, we engineered a Custom Content Management System (CMS)
 
 1. The Public-Facing Website (Frontend) We designed a responsive, modern interface featuring:
 
-🏠 Home: Dynamic hero sliders and introduction sections.
-🛠️ Services & Industries: detailed breakdowns of company offerings.
-🏢 About Us: Company history and vision.
-💼 Careers: A listing space for potential opportunities.
-📞 Contact Us: Fully integrated inquiry system.
+🏠 Home: Dynamic hero sliders and introduction sections. <br>
+🛠️ Services & Industries: detailed breakdowns of company offerings. <br>
+🏢 About Us: Company history and vision. <br>
+💼 Careers: A listing space for potential opportunities. <br>
+📞 Contact Us: Fully integrated inquiry system. <br>
 
 2. The Custom CMS (Admin Dashboard) This was the most technically challenging part. We built a backend that allows administrators to update:
 
-🖼️ Dynamic Imagery: Full control over Hero Sliders, banners, and section images.
-📝 Content Management: Edit text, headings, and descriptions across all pages (Home, About, Services, etc.).
-🧩 Component Control: Manage global elements like the Header, Footer, and Navigation Menus dynamically.
-🔌 Key Features & Integrations
+🖼️ Dynamic Imagery: Full control over Hero Sliders, banners, and section images. <br>
+📝 Content Management: Edit text, headings, and descriptions across all pages (Home, About, Services, etc.). <br>
+🧩 Component Control: Manage global elements like the Header, Footer, and Navigation Menus dynamically. <br>
+🔌 Key Features & Integrations <br>
 
 Real-Time Updates: Changes made in the CMS reflect instantly on the live site.
 
