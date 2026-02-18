@@ -19,9 +19,9 @@ Instead of a static site, we engineered a Custom Content Management System (CMS)
 
 2. The Custom CMS (Admin Dashboard) This was the most technically challenging part. We built a backend that allows administrators to update:
 
-🖼️ Dynamic Imagery: Full control over Hero Sliders, banners, and section images. <br>
-📝 Content Management: Edit text, headings, and descriptions across all pages (Home, About, Services, etc.). <br>
-🧩 Component Control: Manage global elements like the Header, Footer, and Navigation Menus dynamically. <br>
+🖼️ Dynamic Imagery: Full control over Hero Sliders, banners and section images. <br>
+📝 Content Management: Edit text, headings and descriptions across all pages (Home, About, Services, etc.). <br>
+🧩 Component Control: Manage global elements like the Header, Footer and Navigation Menus dynamically. <br>
 🔌 Key Features & Integrations <br>
 
 Real-Time Updates: Changes made in the CMS reflect instantly on the live site.
